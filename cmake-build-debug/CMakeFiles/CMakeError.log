@@ -1,0 +1,36 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_c208b/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_c208b.dir\build.make CMakeFiles/cmTC_c208b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c208b.dir/testCCompiler.c.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_c208b.dir\testCCompiler.c.obj   -c C:\Users\user\Documents\Icould\PE_lecture\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_c208b.exe
+C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_c208b.dir\link.txt --verbose=1
+C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\cmTC_c208b.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\cmTC_c208b.dir/objects.a @CMakeFiles\cmTC_c208b.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe: CMakeFiles\cmTC_c208b.dir/objects.a: Permission denied
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_c208b.dir\build.make:88: cmTC_c208b.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_c208b/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe cmTC_20227/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_20227.dir\build.make CMakeFiles/cmTC_20227.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_20227.dir/testCCompiler.c.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_20227.dir\testCCompiler.c.obj   -c C:\Users\user\Documents\Icould\PE_lecture\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_20227.exe
+C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_20227.dir\link.txt --verbose=1
+C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\cmTC_20227.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\cmTC_20227.dir/objects.a @CMakeFiles\cmTC_20227.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe: CMakeFiles\cmTC_20227.dir/objects.a: Permission denied
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_20227.dir\build.make:88: cmTC_20227.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/user/Documents/Icould/PE_lecture/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_20227/fast] Error 2
+
+
+

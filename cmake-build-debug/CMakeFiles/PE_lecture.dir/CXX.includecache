@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Documents/Icould/PE_lecture/complex.cpp
+cmath
+-
+complex.h
+C:/Users/user/Documents/Icould/PE_lecture/complex.h
+
+C:/Users/user/Documents/Icould/PE_lecture/complex.h
+cstdlib
+-
+iostream
+-
+
+C:/Users/user/Documents/Icould/PE_lecture/main.cpp
+iostream
+-
+array
+-
+algorithm
+-
+complex.h
+C:/Users/user/Documents/Icould/PE_lecture/complex.h
+
